@@ -1,0 +1,22 @@
+{
+  "name": "Axion token list",
+  "timestamp": "2020-08-25T12:00:15+00:00",
+  "keywords": [
+    "axion"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0x4c2122aa45551BFac0c161b00121c34A2B9Aa4B8",
+      "symbol": "AXN",
+      "name": "Axion",
+      "decimals": 18
+    }
+  ],
+  "logoURI": "ipfs://QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx"
+}
